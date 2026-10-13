@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inicio de mi Portafolio",
+    "fecha": "2026-10-10",
+    "contenido": "Hoy comencé a desarrollar mi portafolio personal usando React y Bootstrap."
+  },
+  {
+    "id": 2,
+    "titulo": "Aprendiendo Testing",
+    "fecha": "2026-10-10",
+    "contenido": "Estoy configurando Jasmine y Karma para asegurar la calidad de mis componentes."
+  }
+]
